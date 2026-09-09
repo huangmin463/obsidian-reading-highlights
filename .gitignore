@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Reading Highlights
+node_modules/
+v0.0/
+data.json
+.env
+.env.*
+.DS_Store

@@ -1,0 +1,10 @@
+{
+  "id": "reading-highlights",
+  "name": "Reading Highlights",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Non-destructive highlights, notes, search, and Markdown export for Obsidian reading workflows.",
+  "author": "",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
